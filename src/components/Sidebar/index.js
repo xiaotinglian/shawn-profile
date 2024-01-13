@@ -29,7 +29,7 @@ const Sidebar = () => {
       <ul>
         <li>
           <a
-            href="https://www.linkedin.com/in/xiaoting-lian-766bbb281/"
+            href="https://www.linkedin.com/in/xiaoting-lian-48825020b/"
             target="_blank"
             rel="noreferrer"
           >
