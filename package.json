@@ -13,6 +13,7 @@
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^13.5.0",
     "animate.css": "^4.1.1",
+    "css-select": "^5.1.0",
     "gsap-trial": "^3.10.3",
     "leaflet": "^1.8.0",
     "loaders.css": "^0.1.2",
@@ -27,7 +28,7 @@
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^3.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
